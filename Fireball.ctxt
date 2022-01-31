@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Fireball
+comment1.params=x\ y
+comment1.target=Fireball(int,\ int)
+comment2.params=g
+comment2.target=void\ draw(java.awt.Graphics)
+comment3.params=g
+comment3.target=void\ drawPart2(java.awt.Graphics)
+comment4.params=
+comment4.target=void\ explosionDammage()
+comment5.params=
+comment5.target=boolean\ getRemove()
+numComments=6

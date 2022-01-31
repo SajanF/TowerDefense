@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=BadGuys
+comment1.params=
+comment1.target=BadGuys()
+comment10.params=
+comment10.target=int\ getNumBadGuys()
+comment2.params=
+comment2.target=void\ move()
+comment3.params=
+comment3.target=void\ die()
+comment4.params=badGuy
+comment4.target=void\ regen(BadGuy)
+comment5.params=x1\ x2\ y1\ y2
+comment5.target=double\ dist(int,\ int,\ int,\ int)
+comment6.params=g
+comment6.target=void\ draw(java.awt.Graphics)
+comment7.params=low\ high
+comment7.target=int\ randint(int,\ int)
+comment8.params=list
+comment8.target=void\ setBadList(java.util.ArrayList)
+comment9.params=n
+comment9.target=void\ setNumBadGuys(int)
+numComments=11

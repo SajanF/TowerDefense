@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Menu
+comment1.params=
+comment1.target=Menu()
+comment10.params=
+comment10.target=int\ getmap()
+comment11.params=n
+comment11.target=void\ setPg(int)
+comment2.params=
+comment2.target=boolean\ click()
+comment3.params=g
+comment3.target=void\ draw(java.awt.Graphics)
+comment4.params=g
+comment4.target=void\ drawHome(java.awt.Graphics)
+comment5.params=g
+comment5.target=void\ drawMaps(java.awt.Graphics)
+comment6.params=g
+comment6.target=void\ drawInst(java.awt.Graphics)
+comment7.params=g
+comment7.target=void\ drawCreators(java.awt.Graphics)
+comment8.params=g
+comment8.target=void\ drawEnd(java.awt.Graphics)
+comment9.params=
+comment9.target=int\ getRound()
+numComments=12
